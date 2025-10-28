@@ -94,5 +94,10 @@ Este repositorio contiene ejercicios de JavaScript organizados en 4 bloques. Cad
 ```bash
 git clone https://github.com/tu_usuario/tu_repositorio.git
 
-*Autor*
+
+
+---
+
+
+## Autor
 Isaac Lopez
