@@ -85,6 +85,15 @@ Este repositorio contiene ejercicios de JavaScript organizados en 4 bloques. Cad
 
 > La diferencia principal es que se usan **arreglos** para almacenar los datos ingresados, haciendo los programas más eficientes y escalables.
 
+
+
+---
+
+
+## Autor
+Isaac Lopez
+
+
 ---
 
 ## Cómo usar este repositorio
@@ -96,8 +105,4 @@ git clone https://github.com/tu_usuario/tu_repositorio.git
 
 
 
----
 
-
-## Autor
-Isaac Lopez
